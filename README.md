@@ -10,7 +10,7 @@ $$ \color{#C30010} \text{* 6teen ۶۟ৎ neurodivergent} $$
 
 <p align="center">
   <a href="https://horrorluvsribs.straw.page/">straw</a> &bull; 
-  <a href="https://horrorluvsribs.atabook.org/">ata</a> &bull; 
+  <a href="https:// horrorluvsribs.atabook.org/">ata</a> &bull; 
   <a href="https://en.pronouns.page/@horrorluvsribs">prns</a>
 </p>
 

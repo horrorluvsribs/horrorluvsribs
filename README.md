@@ -6,7 +6,7 @@
   
 <img width="100%" height="200" alt="Red lace banner" src="https://github.com/user-attachments/assets/9a6d2d3a-a03d-40f6-8710-616c9d53db40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=comicsanssize=18&pause=1000&color=E05A70&width=220&lines=dinner+is+not+over" align="middle" width="500" alt="Typing SVG" /></a>
+&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=comicsanssize=18&pause=1000&color=E05A70&width=220&lines=*dinner+is+not+over" align="middle" width="500" alt="Typing SVG" /></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
    

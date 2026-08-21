@@ -49,7 +49,9 @@
 
 <br>
 
-<img width="100%" height="200" alt="divider2" src="https://github.com/user-attachments/assets/f7bcc6ee-94df-453c-a688-5bdd8e48c78d" />
+<div align="center">
+  
+<img width="100%" height="200" alt="Untitled410_20260822014458" src="https://github.com/user-attachments/assets/a9a1edf7-6e65-4c32-ba10-7482482ef85b" />
 
 <p align="center">
   <img src="https://64.media.tumblr.com/7633078ffc30bcc5fc37cfa384cb88fe/51aaa8553dedabf1-7b/s400x600/a887dd601314cc161de60e5d50fc82db9e33f149.gifv" width="150" alt="horrortale aliza animation" />

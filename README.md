@@ -6,17 +6,17 @@
   
 <img width="100%" height="200" alt="Red lace banner" src="https://github.com/user-attachments/assets/9a6d2d3a-a03d-40f6-8710-616c9d53db40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=comicsanssize=18&pause=1000&color=E05A70&width=210&lines=dinner+is+not+over" align="middle" width="500" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=comicsanssize=18&pause=1000&color=E05A70&width=220&lines=dinner+is+not+over" align="middle" width="500" alt="Typing SVG" /></a>
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
    
-   <td align="left" valign="middle" width="350" style="border: none; padding: 0;">
+   <td width="350" style="border: none; padding: 0;">
       <!-- Added a width attribute and scaled both sizes up -->
       <img width="320" hheight="850" alt="cleaver" src="https://github.com/user-attachments/assets/b7296cfd-cb01-4885-bc2f-63e72f88385e" />
     </td>
 
     
-<td align="center" valign="middle" style="border: none; padding: 0;">
+<td align="center" style="border: none; padding: 0;">
       $\color{#9B2226}{\textsf{* ribbons}}$ $\color{#AE2012}{\textsf{/ leo}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
       $\color{#E05A70}{\textsf{* he /}}$ $\color{#FF4D6D}{\textsf{ any}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
       $\color{#9B2226}{\textsf{* w2i +}}$ $\color{#AE2012}{\textsf{ ask2friend}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
@@ -24,7 +24,7 @@
       $\color{#9B2226}{\textsf{* basic}}$ $\color{#AE2012}{\textsf{dni criteria}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
     </td>
     
-<td align="right" valign="middle" width="210" style="border: none; padding: 0;">
+<td align="right" width="210" style="border: none; padding: 0;">
   <!-- First Image Link -->
   <a href="https://horrorluvsribs.straw.page/">
     <img wwidth="200" height="200" alt="horror2" src="https://github.com/user-attachments/assets/62967a86-f967-4d02-9374-6b51e299f667" />
@@ -54,5 +54,3 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/7633078ffc30bcc5fc37cfa384cb88fe/51aaa8553dedabf1-7b/s400x600/a887dd601314cc161de60e5d50fc82db9e33f149.gifv" width="150" alt="horrortale aliza animation" />
 </p>
-
-</div>

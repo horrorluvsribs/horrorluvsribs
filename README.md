@@ -18,7 +18,7 @@
     
 <td align="center" style="border: none; padding: 0;">
       $\color{#9B2226}{\textsf{* ribbons}}$ $\color{#AE2012}{\textsf{/ leo}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
-      $\color{#E05A70}{\textsf{* he /}}$ $\color{#FF4D6D}{\textsf{ any}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
+      $\color{#E05A70}{\textsf{* he /}}$ $\color{#FF4D6D}{\textsf{any}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
       $\color{#9B2226}{\textsf{* w2i +}}$ $\color{#AE2012}{\textsf{ ask2friend}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
       $\color{#E05A70}{\textsf{* 16}}$ $\color{#FF4D6D}{\textsf{}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>
       $\color{#9B2226}{\textsf{* basic}}$ $\color{#AE2012}{\textsf{dni criteria}}$ $\color{#5a3f6f}{\textsf{}}$<br><br>

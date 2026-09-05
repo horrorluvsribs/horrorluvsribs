@@ -11,7 +11,7 @@
 $\color{#CEBDED}{\textsf{sharing}}$ $\color{#BE9ACA}{\textsf{horror}}$ $\color{#9A80AC}{\textsf{yume}}$ <br>
 $\color{#F07085}{\textsf{ribbons}}$ $\color{#905D72}{\textsf{/}}$ $\color{#C56074}{\textsf{leo ,}}$ $\color{#BC556E}{\textsf{6}}$ $\color{#A9415B}{\textsf{teen}}$ <br>
 $\color{#F8EDED}{\textsf{autistic }}$ , $\color{#EBD2D5}{\textsf{ sp / so}}$ $\color{#C99AAF}{\textsf{548}}$ <br>
-$\color{#CEBDED}{\textsf{w2i ,}}$ $\color{#BE9ACA}{\textsf{c+h ,}}$ $\color{#9A80AC}{\textsf{dnc ,}}$ $\color{#705F78}{\textsf{do not}}$ $\color{#5A576C}{\textsf{take inspo}}$ <br>
+$\color{#CEBDED}{\textsf{w2i ,}}$ $\color{#BE9ACA}{\textsf{c+h ,}}$ $\color{#9A80AC}{\textsf{dnc ,}}$ $\color{#705F78}{\textsf{do not}}$ $\color{#5A576C}{\textsf{take inspo}}$ <br><br><br>
 $\color{#F07085}{\textsf{usually}}$ $\color{#ec667c}{\textsf{in}}$ $\color{#C56074}{\textsf{the}}$ $\color{#BC556E}{\textsf{UTDR}}$ $\color{#A9415B}{\textsf{area}}$
    <a href="https://horrorluvsribs.straw.page/">strawpage</a> , <a href="https://horrorluvsribs.atabook.org/">ata</a> , <a href="https://en.pronouns.page/@horrorluvsribs">prns</a>
 </p>

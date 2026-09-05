@@ -16,7 +16,7 @@ $\color{#F07085}{\textsf{usually}}$ $\color{#ec667c}{\textsf{in}}$ $\color{#C560
 </p>
 
 &nbsp;&nbsp;<img align="right" img src="https://github.com/user-attachments/assets/8491469a-7e9b-4adc-a45e-19e67bf01df7" width="300" height="auto"> <br>
-<p align="right"> &nbsp;&nbsp;<br><br> $\color{#F8EDED}\huge{\textsf{before}}$ $\color{#dbb7bf}\huge{\textsf{interacting}}$ <br>
+<br><br><p align="right"> &nbsp;&nbsp;<br><br> $\color{#F8EDED}\huge{\textsf{before}}$ $\color{#dbb7bf}\huge{\textsf{interacting}}$ <br>
 $\color{#CEBDED}{\textsf{i'm}}$ $\color{#BE9ACA}{\textsf{neurodivergent}}$ $\color{#9A80AC}{\textsf{please use}}$ $\color{#705F78}{\textsf{tonetags}}$ <br>
 $\color{#F07085}{\textsf{c+h}}$ $\color{#ec667c}{\textsf{is}}$ $\color{#C56074}{\textsf{encouraged}}$ <br>
 $\color{#F8EDED}{\textsf{i}}$ $\color{#EBD2D5}{\textsf{use}}$ $\color{#EBD2D5}{\textsf{slurs}}$ $\color{#dbb7bf}{\textsf{i}}$ $\color{#dbb7bf}{\textsf{can}}$ $\color{#dbb7bf}{\textsf{claim}}$ <br>

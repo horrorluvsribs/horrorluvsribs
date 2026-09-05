@@ -15,7 +15,7 @@ $\color{#F07085}{\textsf{usually}}$ $\color{#ec667c}{\textsf{in}}$ $\color{#C560
    <a href="https://horrorluvsribs.straw.page/">strawpage</a> , <a href="https://horrorluvsribs.atabook.org/">ata</a> , <a href="https://en.pronouns.page/@horrorluvsribs">prns</a>
 </p>
 
-&nbsp;&nbsp;<img align="right" img src="https://github.com/user-attachments/assets/8491469a-7e9b-4adc-a45e-19e67bf01df7" width="300" height="auto">
+&nbsp;&nbsp;<img align="right" img src="https://github.com/user-attachments/assets/8491469a-7e9b-4adc-a45e-19e67bf01df7" width="300" height="auto"> <br>
 <p align="right"> &nbsp;&nbsp;<br><br> $\color{#F8EDED}\huge{\textsf{before}}$ $\color{#dbb7bf}\huge{\textsf{interacting}}$ <br>
 $\color{#CEBDED}{\textsf{i'm}}$ $\color{#BE9ACA}{\textsf{neurodivergent}}$ $\color{#9A80AC}{\textsf{please use}}$ $\color{#705F78}{\textsf{tonetags}}$ <br>
 $\color{#F07085}{\textsf{c+h}}$ $\color{#ec667c}{\textsf{is}}$ $\color{#C56074}{\textsf{encouraged}}$ <br>

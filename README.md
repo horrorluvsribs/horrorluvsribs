@@ -23,6 +23,11 @@ $\color{#F8EDED}{\textsf{i}}$ $\color{#EBD2D5}{\textsf{use}}$ $\color{#EBD2D5}{\
 $\color{#CEBDED}{\textsf{usually}}$ $\color{#BE9ACA}{\textsf{offtab, i'm}}$ $\color{#9A80AC}{\textsf{not ignoring}}$ $\color{#705F78}{\textsf{you}}$ <br>
 $\color{#F07085}{\textsf{pls}}$ $\color{#BC556E}{\textsf{interact}}$ <br>
 </p>
+ <p align="left">
+  <a href="https://open.spotify.com/user/31mbhxy4awlojug3lr6zth4hf3ay">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316yguizxcwgfin7qfjat7oddaye&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=ffeac7&bar_color_cover=false">
+  </a>
+</p>
 <img align="center" img src="https://github.com/user-attachments/assets/786403ca-274c-46c7-b779-ed899c0aa5e9" alt="banner2" width="1000" height="250"/>
 
 <p align="center"> $\color{#F8EDED}\small{\textsf{art made by me}}$

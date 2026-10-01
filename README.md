@@ -20,7 +20,7 @@ $\color{#F07085}{\textsf{usually}}$ $\color{#ec667c}{\textsf{in}}$ $\color{#C560
 $\color{#CEBDED}{\textsf{i'm}}$ $\color{#BE9ACA}{\textsf{neurodivergent}}$ $\color{#9A80AC}{\textsf{please use}}$ $\color{#705F78}{\textsf{tonetags}}$ <br>
 $\color{#F07085}{\textsf{c+h}}$ $\color{#ec667c}{\textsf{is}}$ $\color{#C56074}{\textsf{encouraged}}$ <br>
 $\color{#F8EDED}{\textsf{i}}$ $\color{#EBD2D5}{\textsf{use}}$ $\color{#EBD2D5}{\textsf{slurs}}$ $\color{#dbb7bf}{\textsf{i}}$ $\color{#dbb7bf}{\textsf{can}}$ $\color{#dbb7bf}{\textsf{claim}}$ <br>
-$\color{#CEBDED}{\textsf{usually}}$ $\color{#BE9ACA}{\textsf{offtab, i'm}}$ $\color{#9A80AC}{\textsf{not ignoring}}$ $\color{#705F78}{\textsf{you}}$ <br>
+$\color{#CEBDED}{\textsf{usually}}$ $\color{#BE9ACA}{\textsf{offtab , i'm}}$ $\color{#9A80AC}{\textsf{not ignoring}}$ $\color{#705F78}{\textsf{you}}$ <br>
 $\color{#F07085}{\textsf{pls}}$ $\color{#BC556E}{\textsf{interact}}$ <br>
 </p>
 

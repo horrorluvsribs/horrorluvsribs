@@ -1,35 +1,41 @@
-<img align="center" img src="https://github.com/user-attachments/assets/51bcbb23-8e7b-48c5-99df-51b551eb4002" alt="banner1" width="1000" height="250" />
+<img align="center" img src="https://github.com/user-attachments/assets/191af634-af35-475e-a3dd-db53c619ccd1" alt="banner1" width="1000" height="400" />
 <br>
 <br>
+<br>
+<br>
+<br>
+<img align="left" img src="https://github.com/user-attachments/assets/e799333a-8783-4c1a-96bb-c0412c54086c" width="500">
 
-<img align="left" img src="https://github.com/user-attachments/assets/25bbfdb2-7b22-4232-8594-d04af571cfc6" width="500" height="auto">
-
-<img align="left" img src="https://github.com/user-attachments/assets/89907708-0d8a-4681-bb01-580da113e55f" width="300" height="auto">
+<br>
+<br>
+<p align="left"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}\huge{\textsf{about}}$ $\color{#f8dfe2}\huge{\textsf{me}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{cider /}}$ $\color{#ad3151}{\textsf{anarchy /}}$ $\color{#b53959}{\textsf{killer .}}$ $\color{#bd4161}{\textsf{15 - 17}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{non}}$ $\color{#f8dfe2}{\textsf{sharing}}$ $\color{#fae4e6}{\textsf{cross}}$ $\color{#fce9ea}{\textsf{yume}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{killer sans}}$ , $\color{#ad3151}{\textsf{irl ,}}$ $\color{#b53959}{\textsf{taken}}$ $\color{#bd4161}{\textsf{( 7 / 19 / 25 )}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{i hang}}$ $\color{#f4d4dc}{\textsf{around the}}$ $\color{#f8dfe2}{\textsf{UTAU/DR}}$ $\color{#fae4e6}{\textsf{area}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{depression}}$ $\color{#ad3151}{\textsf{and}}$ $\color{#b53959}{\textsf{anxiety}}$ <br>
+</p>
+<br>
+<br>
+<a href="https://www.patreon.com/profile/creators?u=111107632">
+  <img align="left" src="https://github.com/user-attachments/assets/ccd87fb5-1d4d-4561-810d-106711c68f49" wwidth="150" height="150">
+</a>
+<a href="https://somethinggnew.straw.page/">
+  <img align="left" src="https://github.com/user-attachments/assets/b861c70b-4a11-4512-bf12-cd8fd287bfab" wwidth="150" height="150">
+</a>
+<a href="https://en.pronouns.page/@ssomthingnew">
+  <img align="left" src="https://github.com/user-attachments/assets/104e27ab-6386-4c05-9e3f-85e023b5f182" wwidth="150" height="150">
+</a>
 <p align="right"> <br>
-<p align="left"> $\color{#F8EDED}\huge{\textsf{about}}$ $\color{#EBD2D5}\huge{\textsf{me}}$ <br>
-$\color{#CEBDED}{\textsf{sharing}}$ $\color{#BE9ACA}{\textsf{horror}}$ $\color{#9A80AC}{\textsf{yume}}$ <br>
-$\color{#F07085}{\textsf{ribbons}}$ $\color{#905D72}{\textsf{/}}$ $\color{#C56074}{\textsf{leo ,}}$ $\color{#BC556E}{\textsf{6}}$ $\color{#A9415B}{\textsf{teen}}$ <br>
-$\color{#F8EDED}{\textsf{autistic }}$ , $\color{#EBD2D5}{\textsf{ sp / so}}$ $\color{#C99AAF}{\textsf{584}}$ <br>
-$\color{#CEBDED}{\textsf{w2i ,}}$ $\color{#BE9ACA}{\textsf{c+h ,}}$ $\color{#9A80AC}{\textsf{dnc ,}}$ $\color{#705F78}{\textsf{do not}}$ $\color{#5A576C}{\textsf{take inspo}}$ <br>
-$\color{#F07085}{\textsf{usually}}$ $\color{#ec667c}{\textsf{in}}$ $\color{#C56074}{\textsf{the}}$ $\color{#BC556E}{\textsf{UTDR}}$ $\color{#A9415B}{\textsf{area}}$<br>
-   <a href="https://horrorluvsribs.straw.page/">strawpage</a> , <a href="https://horrorluvsribs.atabook.org/">ata</a> , <a href="https://en.pronouns.page/@horrorluvsribs">prns</a>
+<p align="left"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#F8EDED}\huge{\textsf{BYI}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{i have}}$ $\color{#ad3151}{\textsf{suspected OSDD}}$ $\color{#b53959}{\textsf{+ BP}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{difficulty with}}$ $\color{#f8dfe2}{\textsf{connecting}}$ $\color{#fae4e6}{\textsf{to}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{emotions}}$ $\color{#ad3151}{\textsf{in general}}$
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp;&thinsp; $\color{#f4d4dc}{\textsf{memory + trust issues}}$ , <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&thinsp; $\color{#a52949}{\textsf{don't take it}}$ $\color{#ad3151}{\textsf{personal}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{i get defensive}}$ $\color{#f8dfe2}{\textsf{over my friends}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{and get}}$ $\color{#ad3151}{\textsf{jealous easily}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{i will}}$ $\color{#f8dfe2}{\textsf{freely block}}$ $\color{#fae4e6}{\textsf{if you're}}$ <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{weird or}}$ $\color{#ad3151}{\textsf{annoying}}$ <br>
 </p>
-
-&nbsp;&nbsp;<img align="right" img src="https://github.com/user-attachments/assets/8491469a-7e9b-4adc-a45e-19e67bf01df7" width="300" height="auto"> <br>
-<br><p align="right"> &nbsp;&nbsp;<br><br> $\color{#F8EDED}\huge{\textsf{before}}$ $\color{#dbb7bf}\huge{\textsf{interacting}}$ <br>
-$\color{#CEBDED}{\textsf{i'm}}$ $\color{#BE9ACA}{\textsf{neurodivergent}}$ $\color{#9A80AC}{\textsf{please use}}$ $\color{#705F78}{\textsf{tonetags}}$ <br>
-$\color{#F07085}{\textsf{c+h}}$ $\color{#ec667c}{\textsf{is}}$ $\color{#C56074}{\textsf{encouraged}}$ <br>
-$\color{#F8EDED}{\textsf{i}}$ $\color{#EBD2D5}{\textsf{use}}$ $\color{#EBD2D5}{\textsf{slurs}}$ $\color{#dbb7bf}{\textsf{i}}$ $\color{#dbb7bf}{\textsf{can}}$ $\color{#dbb7bf}{\textsf{claim}}$ <br>
-$\color{#CEBDED}{\textsf{usually}}$ $\color{#BE9ACA}{\textsf{offtab , i'm}}$ $\color{#9A80AC}{\textsf{not ignoring}}$ $\color{#705F78}{\textsf{you}}$ <br>
-$\color{#F07085}{\textsf{pls}}$ $\color{#BC556E}{\textsf{interact}}$ <br>
-</p>
-
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mbhxy4awlojug3lr6zth4hf3ay&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=e15b5b&bar_color_cover=false">
-  </a>
-</p>
-
-<img align="center" img src="https://github.com/user-attachments/assets/786403ca-274c-46c7-b779-ed899c0aa5e9" alt="banner2" width="1000" height="250"/>
-
-<p align="center"> $\color{#F8EDED}\small{\textsf{art made by me}}$
+<img align="center" img src="https://github.com/user-attachments/assets/1449987a-14d5-4ef3-b222-736302563fa8" alt="banner1" width="1000" height="400" />

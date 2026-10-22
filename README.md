@@ -6,7 +6,7 @@
 
 <br>
 <br>
-<p align="left"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}\huge{\textsf{about}}$ $\color{#f8dfe2}\huge{\textsf{me}}$ <br>
+<p align="left"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}\huge{\textsf{about}}$ $\color{#f8dfe2}\huge{\textsf{me}}$ <br>
 &ensp;&ensp;&ensp;&ensp; $\color{#a52949}{\textsf{cider /}}$ $\color{#ad3151}{\textsf{anarchy /}}$ $\color{#b53959}{\textsf{killer .}}$ $\color{#bd4161}{\textsf{15 - 17}}$ <br>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; $\color{#f4d4dc}{\textsf{non}}$ $\color{#f8dfe2}{\textsf{sharing}}$ $\color{#fae4e6}{\textsf{cross}}$ $\color{#fce9ea}{\textsf{yume}}$ <br>
 &ensp;&ensp;&ensp; $\color{#a52949}{\textsf{killer sans}}$ , $\color{#ad3151}{\textsf{irl ,}}$ $\color{#b53959}{\textsf{taken}}$ $\color{#bd4161}{\textsf{( 7 / 19 / 25 )}}$ <br>
